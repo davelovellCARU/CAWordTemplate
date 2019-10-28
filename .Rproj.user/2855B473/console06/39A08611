@@ -10,4 +10,108 @@ vell/CAWordTemplate/.git/[0K[1A[?25h[?25l
 [0;32mdavid.lovell@CASH-WS-2231 [0;35m [0;33m/o/WCC/Research/Team member folders/Dave Lovell/CAW[0Ko
 rdTemplate[0;36m (master)[0m[0K
 $[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[7G[?25h[8G[?25l$ git ad[0K[?25hd[0K[11G[?25l$ git add .[0K[?25h[?25l
+[0K[?25h[?25lwarning: LF will be replaced by CRLF in .Rproj.user/2855B473/cpp-defin[0K[1G[?25hwarning: LF will be replaced by CRLF in .Rproj.user/2855B473/cpp-definition-ca[0Kc[?25l
+he.[0K
+The file will have its original line endings in your working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/2855B473/pcs/files-pane.pp[0Ke[?25l
+r.[0K
+The file will have its original line endings in your working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/2855B473/pcs/source-pane.p[0Kp[?25l
+er.[0K
+The file will have its original line endings in your working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/2855B473/pcs/windowlayouts[0Kt[?25l
+ate.pper.[0K
+The file will have its original line endings in your working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/2855B473/pcs/workbench-pan[0Ke[?25l
+.pper.[0K
+The file will have its original line endings in your working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/2855B473/persistent-state.[0K[?25l
+The file will have its original line endings in your working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/2855B473/rmd-outputs.[0K[?25l
+The file will have its original line endings in your working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/2855B473/sources/prop/87A6[0KE[?25l
+7AD.[0K
+The file will have its original line endings in your working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/2855B473/sources/prop/E334[0K1[?25l
+2E1.[0K
+The file will have its original line endings in your working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/2855B473/sources/prop/F55F[0K8[?25l
+371.[0K
+The file will have its original line endings in your working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/2855B473/sources/prop/INDE[0KX[?25l
+.[0K
+The file will have its original line endings in your working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/2855B473/sources/s-A11CF96[0K3[?25l
+/4898DED9-contents.[0K
+The file will have its original line endings in your working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/2855B473/sources/s-A11CF96[0K3[?25l
+/C4602C0B-contents.[0K
+The file will have its original line endings in your working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/2855B473/sources/s-A11CF96[0K3[?25l
+/E8EB05B2.[0K
+The file will have its original line endings in your working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/2855B473/sources/s-A11CF96[0K3[?25l
+/E8EB05B2-contents.[0K
+The file will have its original line endings in your working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/shared/notebooks/paths.[0K[?25l
+The file will have its original line endings in your working directory[0K
+[0K[?25h[?25l
+[0;32mdavid.lovell@CASH-WS-2231 [0;35m [0;33m/o/WCC/Research/Team member folders/Dave Lovell/CAW[0Ko
+rdTemplate[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[14G[?25l$ git commit -[0K[?25hm[0K[17G[?25l$ git commit -m "[0K[?25hc[0Kr[0Ke[0Ka[0Kte[0Kd[0K[26G[?25l$ git commit -m "created p[0K[?25ha[0Kc[0Kk[0Ka[0Kg[0Ke[0K"[0K[?25l
+[0K[?25h[master (root-commit) 7039a9d] created package[0K[?25l
+ 31 files changed, 213 insertions(+)[0K
+ create mode 100644 .Rbuildignore[0K
+ create mode 100644 .Rproj.user/2855B473/console06/39A08611[0K
+ create mode 100644 .Rproj.user/2855B473/console06/INDEX001[0K
+ create mode 100644 .Rproj.user/2855B473/cpp-definition-cache[0K
+ create mode 100644 .Rproj.user/2855B473/pcs/files-pane.pper[0K
+ create mode 100644 .Rproj.user/2855B473/pcs/source-pane.pper[0K
+ create mode 100644 .Rproj.user/2855B473/pcs/windowlayoutstate.pper[0K
+ create mode 100644 .Rproj.user/2855B473/pcs/workbench-pane.pper[0K
+ create mode 100644 .Rproj.user/2855B473/persistent-state[0K
+ create mode 100644 .Rproj.user/2855B473/rmd-outputs[0K
+ create mode 100644 .Rproj.user/2855B473/saved_source_markers[0K
+ create mode 100644 .Rproj.user/2855B473/sources/prop/87A6E7AD[0K
+ create mode 100644 .Rproj.user/2855B473/sources/prop/E33412E1[0K
+ create mode 100644 .Rproj.user/2855B473/sources/prop/F55F8371[0K
+ create mode 100644 .Rproj.user/2855B473/sources/prop/INDEX[0K
+ create mode 100644 .Rproj.user/2855B473/sources/s-A11CF963/4898DED9-contents[0K
+ create mode 100644 .Rproj.user/2855B473/sources/s-A11CF963/C4602C0B-contents[0K
+ create mode 100644 .Rproj.user/2855B473/sources/s-A11CF963/E8EB05B2[0K
+ create mode 100644 .Rproj.user/2855B473/sources/s-A11CF963/E8EB05B2-contents[0K
+ create mode 100644 .Rproj.user/2855B473/sources/s-A11CF963/lock_file[0K
+ create mode 100644 .Rproj.user/shared/notebooks/F2EA891F-skeleton/1/s/chunks.[0Kj
+son[0K
+ create mode 100644 .Rproj.user/shared/notebooks/patch-chunk-names[0K
+ create mode 100644 .Rproj.user/shared/notebooks/paths[0K
+ create mode 100644 CAWordTemplate.Rproj[0K
+ create mode 100644 DESCRIPTION[0K
+ create mode 100644 NAMESPACE[0K
+ create mode 100644 R/hello.R[0K
+ create mode 100644 man/hello.Rd[0K
+ create mode 100644 skeleton/caRefDoc.docx[0K
+ create mode 100644 skeleton/skeleton.Rmd[0K
+ create mode 100644 template.yaml[0K
+[0K[?25h[?25l
+[0;32mdavid.lovell@CASH-WS-2231 [0;35m [0;33m/o/WCC/Research/Team member folders/Dave Lovell/CAW[0Ko
+rdTemplate[0;36m (master)[0m[0K
+$ git remote add origin https://github.com/davelovellCARU/[0K[?25hC[0KA[0KW[0Ko[0Kr[0K[?25ld[0K[64G[?25h[65G[?25l$ git remote add origin https://github.com/davelovellCARU/CAWordT[0K[?25he[0Km[0Kp[0Kl[0Kt[0K[?25l$ git remote add origin https://github.com/davelovellCARU/CAWordTempl[0K[71G[?25h[70G[?25l$ git remote add origin https://github.com/davelovellCARU/CAWordTempla[0K[?25ht[0Ke[0K.[0Kg[0Ki[0Kt[0K[?25l
+[0K[?25h[?25l
+[0;32mdavid.lovell@CASH-WS-2231 [0;35m [0;33m/o/WCC/Research/Team member folders/Dave Lovell/CAW[0Ko
+rdTemplate[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[12G[?25l$ git push -[0K[?25hu[0K[15G[?25l$ git push -u o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[22G[?25l$ git push -u origin m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[?25l
+[0K[?25hEnumerating objects: 44, done.[0K[?25l
+Counting objects:   2% (1/44)[0K[1G[?25h[?25lCounting objects:   4% (2/44)[0K[1G[?25h[?25lCounting objects:   9% (4/44)[0K[1G[?25h[?25lCounting objects:  13% (6/44)[0K[1G[?25h[?25lCounting objects:  20% (9/44)[0K[1G[?25h[?25lCounting objects:  22% (10/44)[0K[1G[?25h[?25lCounting objects:  25% (11/44)[0K[1G[?25h[?25lCounting objects:  27% (12/44)[0K[1G[?25h[?25lCounting objects:  29% (13/44)[0K[1G[?25h[?25lCounting objects:  31% (14/44)[0K[1G[?25h[?25lCounting objects:  34% (15/44)[0K[1G[?25h[?25lCounting objects:  36% (16/44)[0K[1G[?25h[?25lCounting objects:  38% (17/44)[0K[1G[?25h[?25lCounting objects:  40% (18/44)[0K[1G[?25h[?25lCounting objects:  43% (19/44)[0K[1G[?25h[?25lCounting objects:  47% (21/44)[0K[1G[?25h[?25lCounting objects:  50% (22/44)[0K[1G[?25h[?25lCounting objects:  54% (24/44)[0K[1G[?25h[?25lCounting objects:  56% (25/44)[0K[1G[?25h[?25lCounting objects:  61% (27/44)[0K[1G[?25h[?25lCounting objects:  65% (29/44)[0K[1G[?25h[?25lCounting objects:  68% (30/44)[0K[1G[?25h[?25lCounting objects:  70% (31/44)[0K[1G[?25h[?25lCounting objects:  72% (32/44)[0K[1G[?25h[?25lCounting objects:  79% (35/44)[0K[1G[?25h[?25lCounting objects:  81% (36/44)[0K[1G[?25h[?25lCounting objects:  84% (37/44)[0K[1G[?25h[?25lCounting objects:  86% (38/44)[0K[1G[?25h[?25lCounting objects:  88% (39/44)[0K[1G[?25h[?25lCounting objects:  90% (40/44)[0K[1G[?25h[?25lCounting objects:  95% (42/44)[0K[1G[?25h[?25lCounting objects:  97% (43/44)[0K[1G[?25hCounting objects: 100% (44/44), done.[0K[?25l
+Delta compression using up to 4 threads[0K
+Compressing objects:   6% (2/31)[0K[1G[?25h[?25lCompressing objects:   9% (3/31)[0K[1G[?25h[?25lCompressing objects:  19% (6/31)[0K[1G[?25h[?25lCompressing objects:  22% (7/31)[0K[1G[?25h[?25lCompressing objects:  29% (9/31)[0K[1G[?25h[?25lCompressing objects:  35% (11/31)[0K[1G[?25h[?25lCompressing objects:  38% (12/31)[0K[1G[?25h[?25lCompressing objects:  45% (14/31)[0K[1G[?25h[?25lCompressing objects:  51% (16/31)[0K[1G[?25h[?25lCompressing objects:  58% (18/31)[0K[1G[?25h[?25lCompressing objects:  64% (20/31)[0K[1G[?25h[?25lCompressing objects:  70% (22/31)[0K[1G[?25h[?25lCompressing objects:  74% (23/31)[0K[1G[?25h[?25lCompressing objects:  77% (24/31)[0K[1G[?25h[?25lCompressing objects:  83% (26/31)[0K[1G[?25h[?25lCompressing objects:  87% (27/31)[0K[1G[?25h[?25lCompressing objects:  93% (29/31)[0K[1G[?25hCompressing objects: 100% (31/31), done.[0K[?25l
+[0K[?25h[?25lWriting objects:   4% (2/44)[0K[1G[?25h[?25lWriting objects:   9% (4/44)[0K[1G[?25h[?25lWriting objects:  11% (5/44)[0K[1G[?25h[?25lWriting objects:  18% (8/44)[0K[1G[?25h[?25lWriting objects:  25% (11/44)[0K[1G[?25h[?25lWriting objects:  29% (13/44)[0K[1G[?25h[?25lWriting objects:  36% (16/44)[0K[1G[?25h[?25lWriting objects:  43% (19/44)[0K[1G[?25h[?25lWriting objects:  47% (21/44)[0K[1G[?25h[?25lWriting objects:  54% (24/44)[0K[1G[?25h[?25lWriting objects:  56% (25/44)[0K[1G[?25h[?25lWriting objects:  63% (28/44)[0K[1G[?25h[?25lWriting objects:  68% (30/44)[0K[1G[?25h[?25lWriting objects:  75% (33/44)[0K[1G[?25h[?25lWriting objects:  79% (35/44)[0K[1G[?25h[?25lWriting objects:  86% (38/44)[0K[1G[?25h[?25lWriting objects:  90% (40/44)[0K[1G[?25h[?25lWriting objects:  97% (43/44)[0K[1G[?25hWriting objects: 100% (44/44), 14.48 KiB | 21.00 KiB/s, done.[0K[?25l
+Total 44 (delta 0), reused 0 (delta 0)[0K
+[0K[?25hTo https://github.com/davelovellCARU/CAWordTemplate.git[0K[?25l
+ * [new branch]      master -> master[0K
+[0K[?25hBranch 'master' set up to track remote branch 'master' from 'origin'.[0K[?25l
+[0K[?25h[?25l
+[0;32mdavid.lovell@CASH-WS-2231 [0;35m [0;33m/o/WCC/Research/Team member folders/Dave Lovell/CAW[0Ko
+rdTemplate[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K a[0Kd[0Kd[0K[11G[?25l$ git add .[0K[?25h[13G[?25l
 [0K[?25h
