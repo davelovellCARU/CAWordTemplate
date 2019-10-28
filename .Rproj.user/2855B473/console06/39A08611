@@ -140,4 +140,51 @@ rdTemplate[0;36m (master)[0m[0K
 [0;32mdavid.lovell@CASH-WS-2231 [0;35m [0;33m/o/WCC/Research/Team member folders/Dave Lovell/CAW[0Ko
 rdTemplate[0;36m (master)[0m[0K
 $ gi[0K[?25ht[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[13G[?25h[?25l
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/2855B473/pcs/windowlayouts[0Kt[?25l
+ate.pper.[0K
+The file will have its original line endings in your working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/2855B473/sources/prop/F55F[0K8[?25l
+371.[0K
+The file will have its original line endings in your working directory[0K
+[0K[?25h[?25l
+[0;32mdavid.lovell@CASH-WS-2231 [0;35m [0;33m/o/WCC/Research/Team member folders/Dave Lovell/CAW[0Ko
+rdTemplate[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hit[0K c[0Ko[0Km[0Kmi[0Kt[0K[14G[?25l$ git commit -[0K[?25hm[0K[17G[?25l$ git commit -m "[0K[?25hf[0Ki[0Kx[0Ki[0Kng[0K[25G[?25l$ git commit -m "fixing a[0K[?25hr[0Kc[0Khi[0Kt[0Ke[0Kc[0Ku[0Kt[0Kr[0Ke[0K"[0K[?25l
+[0K[?25h[master 9ee2abd] fixing architecutre[0K[?25l
+ 13 files changed, 37 insertions(+), 62 deletions(-)[0K
+ rewrite .Rproj.user/2855B473/console06/INDEX001 (100%)[0K
+ delete mode 100644 .Rproj.user/2855B473/sources/s-A11CF963/4898DED9-contents[0K
+ delete mode 100644 .Rproj.user/2855B473/sources/s-A11CF963/C4602C0B-contents[0K
+ delete mode 100644 .Rproj.user/2855B473/sources/s-A11CF963/E8EB05B2[0K
+ delete mode 100644 .Rproj.user/2855B473/sources/s-A11CF963/E8EB05B2-contents[0K
+ delete mode 100644 .Rproj.user/2855B473/sources/s-A11CF963/lock_file[0K
+ delete mode 100644 .Rproj.user/shared/notebooks/F2EA891F-skeleton/1/s/chunks.[0Kj
+son[0K
+ create mode 100644 .gitignore[0K
+ rename {skeleton => inst/rmarkdown/templates/Church_Army_Word/skeleton}/caRef[0KD
+oc.docx (100%)[0K
+ rename {skeleton => inst/rmarkdown/templates/Church_Army_Word/skeleton}/skele[0Kt
+on.Rmd (100%)[0K
+ rename template.yaml => inst/rmarkdown/templates/Church_Army_Word/template.ya[0Km
+l (100%)[0K
+[0K[?25h[?25l
+[0;32mdavid.lovell@CASH-WS-2231 [0;35m [0;33m/o/WCC/Research/Team member folders/Dave Lovell/CAW[0Ko
+rdTemplate[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[?25l
+[0K[?25hEnumerating objects: 28, done.[0K[?25l
+[0K[?25h[?25lCounting objects:   3% (1/28)[0K[1G[?25h[?25lCounting objects:  10% (3/28)[0K[1G[?25h[?25lCounting objects:  17% (5/28)[0K[1G[?25h[?25lCounting objects:  25% (7/28)[0K[1G[?25h[?25lCounting objects:  28% (8/28)[0K[1G[?25h[?25lCounting objects:  35% (10/28)[0K[1G[?25h[?25lCounting objects:  39% (11/28)[0K[1G[?25h[?25lCounting objects:  46% (13/28)[0K[1G[?25h[?25lCounting objects:  50% (14/28)[0K[1G[?25h[?25lCounting objects:  57% (16/28)[0K[1G[?25h[?25lCounting objects:  60% (17/28)[0K[1G[?25h[?25lCounting objects:  67% (19/28)[0K[1G[?25h[?25lCounting objects:  71% (20/28)[0K[1G[?25h[?25lCounting objects:  75% (21/28)[0K[1G[?25h[?25lCounting objects:  78% (22/28)[0K[1G[?25h[?25lCounting objects:  85% (24/28)[0K[1G[?25h[?25lCounting objects:  89% (25/28)[0K[1G[?25h[?25lCounting objects:  96% (27/28)[0K[1G[?25hCounting objects: 100% (28/28), done.[0K[?25l
+Delta compression using up to 4 threads[0K
+Compressing objects:   9% (1/11)[0K[1G[?25h[?25lCompressing objects:  18% (2/11)[0K[1G[?25h[?25lCompressing objects:  27% (3/11)[0K[1G[?25h[?25lCompressing objects:  36% (3/11)[0K[1G[?25h[?25lCompressing objects:  36% (4/11)[0K[1G[?25h[?25lCompressing objects:  45% (5/11)[0K[1G[?25h[?25lCompressing objects:  54% (6/11)[0K[1G[?25h[?25lCompressing objects:  72% (8/11)[0K[1G[?25h[?25lCompressing objects:  81% (9/11)[0K[1G[?25h[?25lCompressing objects:  90% (10/11)[0K[1G[?25hCompressing objects: 100% (11/11), done.[0K[?25l
+[0K[?25h[?25lWriting objects:  23% (4/17)[0K[1G[?25h[?25lWriting objects:  58% (10/17)[0K[1G[?25h[?25lWriting objects:  64% (11/17)[0K[1G[?25h[?25lWriting objects:  70% (12/17)[0K[1G[?25h[?25lWriting objects:  76% (13/17)[0K[1G[?25h[?25lWriting objects:  88% (15/17)[0K[1G[?25h[?25lWriting objects:  94% (16/17)[0K[1G[?25hWriting objects: 100% (17/17), 1.80 KiB | 5.00 KiB/s, done.[0K[?25l
+Total 17 (delta 6), reused 0 (delta 0)[0K
+[0K[?25h[?25lremote: Resolving deltas:  66% (4/6)[0K[1G[?25hremote: Resolving deltas: 100% (6/6), completed with 6 local objects.[0K[?25l
+[0K[?25hTo https://github.com/davelovellCARU/CAWordTemplate.git[0K[?25l
+   e352ea4..9ee2abd  master -> master[0K
+[0K[?25h[?25l
+[0;32mdavid.lovell@CASH-WS-2231 [0;35m [0;33m/o/WCC/Research/Team member folders/Dave Lovell/CAW[0Ko
+rdTemplate[0;36m (master)[0m[0K
+]0;:/o/WCC/Research/Team member folders/Dave Lovell/CAWordTemplate[?25l
+[0;32mdavid.lovell@CASH-WS-2231 [0;35m [0;33m/o/WCC/Research/Team member folders/Dave Lovell/CA[0KW
+ordTemplate[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hit[0K[7G[?25l$ git add[0K[11G[?25h[?25l$ git add .[0K[?25h[?25l
 [0K[?25h
