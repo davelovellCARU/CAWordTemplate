@@ -233,4 +233,23 @@ $[0K[3G[?25h[?25l$ g[0K[?25hit[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K
 [0;32mdavid.lovell@CASH-WS-2231 [0;35m [0;33m/o/WCC/Research/Team member folders/Dave Lovell/CA[0KW
 ordTemplate[0;36m (master)[0m[0K
 $[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K a[0Kdd[0K[11G[?25l$ git add .[0K[?25h[?25l
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/2855B473/pcs/source-pane.[0Kp[?25l
+per.[0K
+The file will have its original line endings in your working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/2855B473/pcs/windowlayout[0Ks[?25l
+tate.pper.[0K
+The file will have its original line endings in your working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/shared/notebooks/paths.[0K[?25l
+The file will have its original line endings in your working directory[0K
+[0K[?25h[?25l
+[0;32mdavid.lovell@CASH-WS-2231 [0;35m [0;33m/o/WCC/Research/Team member folders/Dave Lovell/CA[0KW
+ordTemplate[0;36m (master)[0m[0K
+$ git commit -m "[0K[?25ha[0Kd[0Kd[0Ke[0Kd[0K[24G[?25l$ git commit -m "added n[0K[?25h[?25l$ git commit -m "added[0K[24G[?25h[?25l$ git commit -m "added n[0K[?25hew[0Kpa[0Kge[0K[32G[?25l$ git commit -m "added newpage i[0K[?25hn[0K[35G[?25l$ git commit -m "added newpage in s[0K[?25hk[0Ke[0Ke[0K[?25l$ git commit -m "added newpage in ske[0K[?25hl[0Ke[0Kt[0Kon[0K"[0K[?25l
+[0K[?25h[master be09714] added newpage in skeleton[0K[?25l
+ 5 files changed, 57 insertions(+), 9 deletions(-)[0K
+ rewrite .Rproj.user/2855B473/console06/INDEX001 (86%)[0K
+[0K[?25h[?25l
+[0;32mdavid.lovell@CASH-WS-2231 [0;35m [0;33m/o/WCC/Research/Team member folders/Dave Lovell/CA[0KW
+ordTemplate[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K a[0Kd[0Kd[0K[11G[?25l$ git add .[0K[?25h[?25l
 [0K[?25h
