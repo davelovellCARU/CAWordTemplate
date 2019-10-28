@@ -295,4 +295,27 @@ $ git commit -m "c[0K[?25he[0Kn[0Kt[0Kr[0Kali[0Ks[0Ked[0K[30G[?25l$ 
 [0;32mdavid.lovell@CASH-WS-2231 [0;35m [0;33m/o/WCC/Research/Team member folders/Dave Lovell/CA[0KW
 ordTemplate[0;36m (master)[0m[0K
 $[0K[3G[?25h[?25l$ g[0K[?25hit[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add  .[0K[?25h[?25l
+[0K[?25h[?25l
+[0;32mdavid.lovell@CASH-WS-2231 [0;35m [0;33m/o/WCC/Research/Team member folders/Dave Lovell/CA[0KW
+ordTemplate[0;36m (master)[0m[0K
+$ git commit[0K[14G[?25h[?25l$ git commit -[0K[?25hm[0K[17G[?25l$ git commit -m "[0K[?25ha[0Kdd[0Ke[0Kd[0K[24G[?25l$ git commit -m "added p[0K[?25hag[0Ke[0Kb[0Kr[0K[?25leak[0K[32G[?25h[33G[34G[?25l$ git commit -m "added pagebreak t[0K[?25ho[0K[37G[?25l$ git commit -m "added pagebreak to s[0K[?25hk[0Keel[0K[?25l$ git commit -m "added pagebreak to skee[0K[?25h[?25l$ git commit -m "added pagebreak to ske[0K[?25hl[0Ke[0Kt[0Kon[0K[46G[?25l$ git commit -m "added pagebreak to skeleton ([0K[?25hhop[0Keuf[0Kl[0Kl[0Ky[0K wo[0Krk[0Ke[0Kd[0K)[0K[63G[62G[55G[54G[53G[52G[51G[50G[51G[?25l$ git commit -m "added pagebreak to skeleton (hopuflly worked)[0K[50G[?25h[51G[?25l$ git commit -m "added pagebreak to skeleton (hopflly worked)[0K[50G[?25h[?25l$ git commit -m "added pagebreak to skeleton (hopeflly worked)[0K[51G[?25h[52G[?25l$ git commit -m "added pagebreak to skeleton (hopefully worked)[0K[53G[?25h[54G[55G[56G[57G[64G[?25l$ git commit -m "added pagebreak to skeleton (hopefully worked)"[0K[?25h[?25l
+[0K[?25h[master f05739e] added pagebreak to skeleton (hopefully worked)[0K[?25l
+ 2 files changed, 20 insertions(+), 1 deletion(-)[0K
+[0K[?25h[?25l
+[0;32mdavid.lovell@CASH-WS-2231 [0;35m [0;33m/o/WCC/Research/Team member folders/Dave Lovell/CA[0KW
+ordTemplate[0;36m (master)[0m[0K
+$ git push[0K[?25h[?25l
+[0K[?25h[?25lEnumerating objects: 1[0K[1G[?25hEnumerating objects: 38, done.[0K[?25l
+Counting objects:   2% (1/38)[0K[1G[?25h[?25lCounting objects:  10% (4/38)[0K[1G[?25h[?25lCounting objects:  15% (6/38)[0K[1G[?25h[?25lCounting objects:  18% (7/38)[0K[1G[?25h[?25lCounting objects:  23% (9/38)[0K[1G[?25h[?25lCounting objects:  28% (11/38)[0K[1G[?25h[?25lCounting objects:  36% (13/38)[0K[1G[?25h[?25lCounting objects:  42% (16/38)[0K[1G[?25h[?25lCounting objects:  44% (17/38)[0K[1G[?25h[?25lCounting objects:  50% (19/38)[0K[1G[?25h[?25lCounting objects:  57% (22/38)[0K[1G[?25h[?25lCounting objects:  63% (24/38)[0K[1G[?25h[?25lCounting objects:  73% (28/38)[0K[1G[?25h[?25lCounting objects:  76% (29/38)[0K[1G[?25h[?25lCounting objects:  81% (31/38)[0K[1G[?25h[?25lCounting objects:  86% (33/38)[0K[1G[?25h[?25lCounting objects:  92% (35/38)[0K[1G[?25h[?25lCounting objects: 100% (38/38), done.[0K[2G[?25h[?25l
+Delta compression using up to 4 threads[0K
+Compressing objects:   5% (1/19)[0K[1G[?25h[?25lCompressing objects:  15% (3/19)[0K[1G[?25h[?25lCompressing objects:  26% (5/19)[0K[1G[?25h[?25lCompressing objects:  31% (6/19)[0K[1G[?25h[?25lCompressing objects:  36% (7/19)[0K[1G[?25h[?25lCompressing objects:  42% (8/19)[0K[1G[?25h[?25lCompressing objects:  57% (11/19)[0K[1G[?25h[?25lCompressing objects:  63% (12/19)[0K[1G[?25h[?25lCompressing objects:  73% (14/19)[0K[1G[?25h[?25lCompressing objects:  78% (15/19)[0K[1G[?25h[?25lCompressing objects:  89% (17/19)[0K[1G[?25h[?25lCompressing objects: 100% (19/19)[0K[1G[?25hCompressing objects: 100% (19/19), done.[0K[?25l
+[0K[?25h[?25lWriting objects:  12% (3/25)[0K[1G[?25h[?25lWriting objects:  24% (6/25)[0K[1G[?25h[?25lWriting objects:  36% (9/25)[0K[1G[?25h[?25lWriting objects:  40% (10/25)[0K[1G[?25h[?25lWriting objects:  48% (12/25)[0K[1G[?25h[?25lWriting objects:  56% (14/25)[0K[1G[?25h[?25lWriting objects:  80% (20/25)[0K[1G[?25h[?25lWriting objects:  84% (21/25)[0K[1G[?25h[?25lWriting objects:  88% (22/25)[0K[1G[?25h[?25lWriting objects:  96% (24/25)[0K[1G[?25hWriting objects: 100% (25/25), 13.43 KiB | 35.00 KiB/s, done.[0K[?25l
+Total 25 (delta 7), reused 0 (delta 0)[0K
+[0K[?25h[?25lremote: Resolving deltas: 100% (7/7)[0K[1G[?25hremote: Resolving deltas: 100% (7/7), completed with 4 local objects.[0K[?25l
+[0K[?25hTo https://github.com/davelovellCARU/CAWordTemplate.git[0K[?25l
+   c8a4259..f05739e  master -> master[0K
+[0K[?25h[?25l
+[0;32mdavid.lovell@CASH-WS-2231 [0;35m [0;33m/o/WCC/Research/Team member folders/Dave Lovell/CA[0KW
+ordTemplate[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hit[0K[7G[?25l$ git a[0K[?25hdd[0K[11G[?25l$ git add .[0K[?25h[13G[?25l
 [0K[?25h
