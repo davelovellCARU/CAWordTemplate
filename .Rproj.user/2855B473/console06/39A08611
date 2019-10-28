@@ -252,4 +252,32 @@ $ git commit -m "[0K[?25ha[0Kd[0Kd[0Ke[0Kd[0K[24G[?25l$ git commit -m 
 [0;32mdavid.lovell@CASH-WS-2231 [0;35m [0;33m/o/WCC/Research/Team member folders/Dave Lovell/CA[0KW
 ordTemplate[0;36m (master)[0m[0K
 $[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K a[0Kd[0Kd[0K[11G[?25l$ git add .[0K[?25h[?25l
+[0K[?25h[?25l
+[0;32mdavid.lovell@CASH-WS-2231 [0;35m [0;33m/o/WCC/Research/Team member folders/Dave Lovell/CA[0KW
+ordTemplate[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hit[0K[7G[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[14G[?25l$ git commit -[0K[?25hm[0K[17G[?25l$ git commit -m "[0K[?25ha[0K[?25l$ git commit -m "[0K[?25ha[0Kd[0Kj[0Kust[0Ki[0Kng[0K s[0Kpa[0Kck[0Ki[0Kn[0Kg[0K[?25l$ git commit -m "adjusting spackin[0K[?25h[?25l$ git commit -m "adjusting spacki[0K[?25h[?25l$ git commit -m "adjusting spack[0K[?25h[?25l$ git commit -m "adjusting spac[0K[?25hi[0Kng[0K[36G[?25l$ git commit -m "adjusting spacing i[0K[?25hn[0K[39G[?25l$ git commit -m "adjusting spacing in r[0K[?25he[0Kf[0K d[0Koc[0K"[0K[?25l
+[0K[?25h[master c8a4259] adjusting spacing in ref doc[0K[?25l
+ 2 files changed, 19 insertions(+)[0K
+ rewrite inst/rmarkdown/templates/Church_Army_Word/skeleton/caRefDoc.docx (64[0K%
+)[0K
+[0K[?25h[?25l
+[0;32mdavid.lovell@CASH-WS-2231 [0;35m [0;33m/o/WCC/Research/Team member folders/Dave Lovell/CA[0KW
+ordTemplate[0;36m (master)[0m[0K
+$[0K[1G[?25h[3G[?25l$ g[0K[?25hit[0K[7G[?25l$ git p[0K[?25hus[0Kh[0K[?25l
+[0K[?25h[?25lEnumerating objects: 9[0K[1G[?25hEnumerating objects: 44, done.[0K[?25l
+Counting objects:   4% (2/44)[0K[2G[?25h[?25lCounting objects:   6% (3/44)[0K[1G[?25h[?25lCounting objects:  11% (5/44)[0K[1G[?25h[?25lCounting objects:  13% (6/44)[0K[1G[?25h[?25lCounting objects:  18% (8/44)[0K[1G[?25h[?25lCounting objects:  20% (9/44)[0K[2G[?25h[?25lCounting objects:  22% (10/44)[0K[1G[?25h[?25lCounting objects:  27% (12/44)[0K[1G[?25h[?25lCounting objects:  34% (15/44)[0K[1G[?25h[?25lCounting objects:  36% (16/44)[0K[1G[?25h[?25lCounting objects:  38% (17/44)[0K[1G[?25h[?25lCounting objects:  43% (19/44)[0K[1G[?25h[?25lCounting objects:  45% (20/44)[0K[1G[?25h[?25lCounting objects:  47% (21/44)[0K[1G[?25h[?25lCounting objects:  50% (22/44)[0K[1G[?25h[?25lCounting objects:  52% (23/44)[0K[1G[?25h[?25lCounting objects:  54% (24/44)[0K[1G[?25h[?25lCounting objects:  61% (27/44)[0K[1G[?25h[?25lCounting objects:  63% (28/44)[0K[1G[?25h[?25lCounting objects:  65% (29/44)[0K[1G[?25h[?25lCounting objects:  68% (30/44)[0K[1G[?25h[?25lCounting objects:  70% (31/44)[0K[1G[?25h[?25lCounting objects:  72% (32/44)[0K[1G[?25h[?25lCounting objects:  77% (34/44)[0K[1G[?25h[?25lCounting objects:  81% (36/44)[0K[1G[?25h[?25lCounting objects:  86% (38/44)[0K[1G[?25h[?25lCounting objects:  93% (41/44)[0K[1G[?25h[?25lCounting objects:  97% (43/44)[0K[1G[?25hCounting objects: 100% (44/44), done.[0K[?25l
+Delta compression using up to 4 threads[0K
+Compressing objects:   4% (1/21)[0K[1G[?25h[?25lCompressing objects:   9% (2/21)[0K[1G[?25h[?25lCompressing objects:  19% (4/21)[0K[1G[?25h[?25lCompressing objects:  28% (6/21)[0K[1G[?25h[?25lCompressing objects:  33% (7/21)[0K[1G[?25h[?25lCompressing objects:  42% (9/21)[0K[1G[?25h[?25lCompressing objects:  47% (10/21)[0K[1G[?25h[?25lCompressing objects:  57% (12/21)[0K[1G[?25h[?25lCompressing objects:  66% (14/21)[0K[1G[?25h[?25lCompressing objects:  76% (16/21)[0K[1G[?25h[?25lCompressing objects:  80% (17/21)[0K[1G[?25h[?25lCompressing objects: 100% (21/21)[0K[1G[?25hCompressing objects: 100% (21/21), done.[0K[?25l
+[0K[?25h[?25lWriting objects:  10% (3/28)[0K[1G[?25h[?25lWriting objects:  21% (6/28)[0K[1G[?25h[?25lWriting objects:  32% (9/28)[0K[1G[?25h[?25lWriting objects:  46% (13/28)[0K[1G[?25h[?25lWriting objects:  57% (16/28)[0K[1G[?25h[?25lWriting objects:  75% (21/28)[0K[1G[?25h[?25lWriting objects:  89% (25/28)[0K[1G[?25hWriting objects: 100% (28/28), 13.22 KiB | 34.00 KiB/s, done.[0K[?25l
+Total 28 (delta 9), reused 0 (delta 0)[0K
+[0K[?25hremote: Resolving deltas:  88% (8/9)[0K[1G[?25lremote: Resolving deltas: 100% (9/9)[0K[1G[?25hremote: Resolving deltas: 100% (9/9), completed with 6 local objects.[0K[?25l
+[0K[?25hTo https://github.com/davelovellCARU/CAWordTemplate.git[0K[?25l
+   57ec26c..c8a4259  master -> master[0K
+[0K[?25h[?25l
+[0;32mdavid.lovell@CASH-WS-2231 [0;35m [0;33m/o/WCC/Research/Team member folders/Dave Lovell/CA[0KW
+ordTemplate[0;36m (master)[0m[0K
+]0;:/o/WCC/Research/Team member folders/Dave Lovell/CAWordTemplate[?25l
+[0;32mdavid.lovell@CASH-WS-2231 [0;35m [0;33m/o/WCC/Research/Team member folders/Dave Lovell/CA[0KW
+ordTemplate[0;36m (master)[0m[0K
+$ git add[0K[?25h[11G[?25l$ git add .[0K[?25h[13G[?25l
 [0K[?25h
