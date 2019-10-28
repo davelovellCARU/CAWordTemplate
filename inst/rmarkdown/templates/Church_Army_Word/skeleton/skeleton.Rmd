@@ -6,6 +6,8 @@ output:
     reference_docx: caRefDoc.docx
 ---
 
+\newpage
+
 #Key Findings
 
 #Conclusion

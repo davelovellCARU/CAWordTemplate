@@ -187,4 +187,50 @@ rdTemplate[0;36m (master)[0m[0K
 [0;32mdavid.lovell@CASH-WS-2231 [0;35m [0;33m/o/WCC/Research/Team member folders/Dave Lovell/CA[0KW
 ordTemplate[0;36m (master)[0m[0K
 $[0K[3G[?25h[?25l$ g[0K[?25hit[0K[7G[?25l$ git add[0K[11G[?25h[?25l$ git add .[0K[?25h[?25l
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/2855B473/pcs/source-pane.[0Kp[?25l
+per.[0K
+The file will have its original line endings in your working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/2855B473/pcs/windowlayout[0Ks[?25l
+tate.pper.[0K
+The file will have its original line endings in your working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/2855B473/sources/prop/IND[0KE[?25l
+X.[0K
+The file will have its original line endings in your working directory[0K
+[0K[?25h[?25lwarning: LF will be replaced by CRLF in .Rproj.user/shared/notebooks/paths.[0K
+The file will have its original line endings in your working directory[0K[1A[?25h[?25l
+
+[0K[?25h[?25l
+[0;32mdavid.lovell@CASH-WS-2231 [0;35m [0;33m/o/WCC/Research/Team member folders/Dave Lovell/CA[0KW
+ordTemplate[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git commit -m "[0K[?25hu[0Kp[0Kd[0Ka[0Kti[0Kng[0KC[0K[?25l$ git commit -m "updating[0K[?25hca[0K[?25l$ git commit -m "updatingc[0K[?25h[?25l$ git commit -m "updating[0K[27G[?25h[?25l$ git commit -m "updating c[0K[?25ha[0KR[0KE[0KF[0KD[0K[?25l$ git commit -m "updating caREF[0K[?25h[?25l$ git commit -m "updating caRE[0K[?25h[?25l$ git commit -m "updating caR[0K[?25he[0Kf[0KD[0Ko[0Kc[0K.[0Kd[0K[?25l$ git commit -m "updating caRefDoc.[0K[?25h[?25l$ git commit -m "updating caRefDoc[0K[?25h[36G[?25l$ git commit -m "updating caRefDoc ([0K[?25ha[0Kut[0Kho[0Kr[0K[44G[?25l$ git commit -m "updating caRefDoc (author and[0K[?25h d[0Kat[0Ke[0K[53G[?25l$ git commit -m "updating caRefDoc (author and date s[0K[?25hy[0Kl[0Ke[0K[?25l$ git commit -m "updating caRefDoc (author and date syl[0K[?25h[?25l$ git commit -m "updating caRefDoc (author and date sy[0K[?25h[?25l$ git commit -m "updating caRefDoc (author and date s[0K[?25hty[0Kl[0Ke[0Ks[0K a[0Kd[0Kde[0Kd[0K)[0K"[0K[?25l
+[0K[?25h[?25l[master 57ec26c] updating caRefDoc (author and date styles added)[0K[1G[?25h[?25l
+ 7 files changed, 53 insertions(+), 4 deletions(-)[0K
+ rewrite .Rproj.user/2855B473/console06/INDEX001 (85%)[0K
+ rewrite inst/rmarkdown/templates/Church_Army_Word/skeleton/caRefDoc.docx (77[0K%
+)[0K
+[0K[?25h[?25l
+[0;32mdavid.lovell@CASH-WS-2231 [0;35m [0;33m/o/WCC/Research/Team member folders/Dave Lovell/CA[0KW
+ordTemplate[0;36m (master)[0m[0K[12G[?25h[?25l
+$ git push[0K[?25h[?25l
+[0K[?25hEnumerating objects: 43, done.[0K[?25l
+[0K[?25h[?25lCounting objects:   6% (3/43)[0K[1G[?25h[?25lCounting objects:  11% (5/43)[0K[1G[?25h[?25lCounting objects:  18% (8/43)[0K[1G[?25h[?25lCounting objects:  23% (10/43)[0K[1G[?25h[?25lCounting objects:  30% (13/43)[0K[1G[?25h[?25lCounting objects:  34% (15/43)[0K[1G[?25h[?25lCounting objects:  41% (18/43)[0K[1G[?25h[?25lCounting objects:  46% (20/43)[0K[1G[?25h[?25lCounting objects:  53% (23/43)[0K[1G[?25h[?25lCounting objects:  60% (26/43)[0K[1G[?25h[?25lCounting objects:  67% (29/43)[0K[1G[?25h[?25lCounting objects:  72% (31/43)[0K[1G[?25h[?25lCounting objects:  81% (35/43)[0K[1G[?25h[?25lCounting objects:  86% (37/43)[0K[1G[?25h[?25lCounting objects:  93% (40/43)[0K[1G[?25h[?25lCounting objects:  95% (41/43)[0K[1G[?25hCounting objects: 100% (43/43), done.[0K[?25l
+Delta compression using up to 4 threads[0K
+Compressing objects:   6% (1/16)[0K[1G[?25h[?25lCompressing objects:  12% (2/16)[0K[1G[?25h[?25lCompressing objects:  25% (4/16)[0K[1G[?25h[?25lCompressing objects:  31% (5/16)[0K[1G[?25h[?25lCompressing objects:  43% (7/16)[0K[1G[?25h[?25lCompressing objects:  50% (8/16)[0K[1G[?25h[?25lCompressing objects:  56% (9/16)[0K[1G[?25h[?25lCompressing objects:  62% (10/16)[0K[1G[?25h[?25lCompressing objects:  68% (11/16)[0K[1G[?25h[?25lCompressing objects:  75% (12/16)[0K[1G[?25h[?25lCompressing objects:  81% (13/16)[0K[1G[?25h[?25lCompressing objects:  87% (14/16)[0K[1G[?25h[?25lCompressing objects:  93% (15/16)[0K[1G[?25hCompressing objects: 100% (16/16), done.[0K[?25l
+[0K[?25h[?25lWriting objects:  22% (5/22)[0K[1G[?25h[?25lWriting objects:  31% (7/22)[0K[1G[?25h[?25lWriting objects:  45% (10/22)[0K[1G[?25h[?25lWriting objects:  59% (13/22)[0K[1G[?25h[?25lWriting objects:  63% (14/22)[0K[1G[?25h[?25lWriting objects:  77% (17/22)[0K[1G[?25h[?25lWriting objects:  81% (18/22)[0K[1G[?25h[?25lWriting objects:  90% (20/22)[0K[1G[?25h[?25lWriting objects:  95% (21/22)[0K[1G[?25hWriting objects: 100% (22/22), 12.52 KiB | 36.00 KiB/s, done.[0K[?25l
+Total 22 (delta 7), reused 0 (delta 0)[0K
+[0K[?25h[?25lremote: Resolving deltas:  71% (5/7)[0K[1G[?25h[?25lremote: Resolving deltas: 100% (7/7), completed with 7 local objects.[0K[37G[?25h[?25l
+[0K[?25hTo https://github.com/davelovellCARU/CAWordTemplate.git[0K[?25l
+   9ee2abd..57ec26c  master -> master[0K
+[0K[?25h[?25l
+[0;32mdavid.lovell@CASH-WS-2231 [0;35m [0;33m/o/WCC/Research/Team member folders/Dave Lovell/CA[0KW
+ordTemplate[0;36m (master)[0m[0K
+]0;:/o/WCC/Research/Team member folders/Dave Lovell/CAWordTemplate[?25l
+[0;32mdavid.lovell@CASH-WS-2231 [0;35m [0;33m/o/WCC/Research/Team member folders/Dave Lovell/CA[0KW
+ordTemplate[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hit[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add s[0K[?25hk[0Ke[0Kl[0Ke[0Kto[0Kn[0K.[0KR[0Km[0Kd[0K[?25l
+[0K[?25hfatal: pathspec 'skeleton.Rmd' did not match any files[0K[?25l
+[0K[?25h[?25l
+[0;32mdavid.lovell@CASH-WS-2231 [0;35m [0;33m/o/WCC/Research/Team member folders/Dave Lovell/CA[0KW
+ordTemplate[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K a[0Kdd[0K[11G[?25l$ git add .[0K[?25h[?25l
 [0K[?25h
