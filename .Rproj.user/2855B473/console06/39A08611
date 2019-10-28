@@ -318,4 +318,67 @@ Total 25 (delta 7), reused 0 (delta 0)[0K
 [0;32mdavid.lovell@CASH-WS-2231 [0;35m [0;33m/o/WCC/Research/Team member folders/Dave Lovell/CA[0KW
 ordTemplate[0;36m (master)[0m[0K
 $[0K[3G[?25h[?25l$ g[0K[?25hit[0K[7G[?25l$ git a[0K[?25hdd[0K[11G[?25l$ git add .[0K[?25h[13G[?25l
-[0K[?25h
+[0K[?25h[?25l
+[0;32mdavid.lovell@CASH-WS-2231 [0;35m [0;33m/o/WCC/Research/Team member folders/Dave Lovell/CA[0KW
+ordTemplate[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git commit -m[0K[?25h "[0Kfu[0Kr[0Ktehr[0K f[0Kor[0Km[0Kat[0Kti[0Kng[0K[37G[?25l$ git commit -m "furtehr formatting t[0K[?25he[0K[?25l$ git commit -m "furtehr formatting t[0K[39G[?25h[38G[?25l$ git commit -m "furtehr formatting tw[0K[?25hea[0Kk[0Ks[0K"[0K[?25l$ git commit -m "furtehr formatting tweaks[0K[?25h[?25l$ git commit -m "furtehr formatting tweak[0K[?25h[?25l$ git commit -m "furtehr formatting twea[0K[?25h[?25l$ git commit -m "furtehr formattin[0K[?25h[?25l$ git commit -m "furtehr formatti[0K[?25h[?25l$ git commit -m "furtehr formatt[0K[?25h[?25l$ git commit -m "furtehr format[0K[?25h[?25l$ git commit -m "furtehr forma[0K[32G[?25h[?25l$ git commit -m "furtehr[0K[26G[?25h[25G[?25l$ git commit -m "furte[0K[?25h[?25l$ git commit -m "furt[0K[?25h[?25l$ git commit -m "fur[0K[?25ht[0Khe[0Kr[0K[26G[?25l$ git commit -m "further f[0K[?25ho[0K[?25lr[0K[28G[?25h[29G[?25l$ git commit -m "further forma[0K[?25htt[0Ki[0Kn[0Kg te[0K[?25l$ git commit -m "further formatting t[0K[?25hwea[0Kks[0K"[0K[?25l
+[0K[?25h[master dbb4810] further formatting tweaks[0K[?25l
+ 2 files changed, 23 insertions(+)[0K
+ rewrite inst/rmarkdown/templates/Church_Army_Word/skeleton/caRefDoc.docx (65[0K%
+)[0K
+[0K[?25h[?25l
+[0;32mdavid.lovell@CASH-WS-2231 [0;35m [0;33m/o/WCC/Research/Team member folders/Dave Lovell/CA[0KW
+ordTemplate[0;36m (master)[0m[0K
+$ git push[0K[?25h[?25l
+[0K[?25h[?25lEnumerating objects: 21[0K[1G[?25hEnumerating objects: 23, done.[0K[?25l
+Counting objects:   4% (1/23)[0K[1G[?25h[?25lCounting objects:  17% (4/23)[0K[1G[?25h[?25lCounting objects:  26% (6/23)[0K[1G[?25h[?25lCounting objects:  34% (8/23)[0K[1G[?25h[?25lCounting objects:  47% (11/23)[0K[1G[?25h[?25lCounting objects:  56% (13/23)[0K[1G[?25h[?25lCounting objects:  69% (16/23)[0K[1G[?25h[?25lCounting objects:  78% (18/23)[0K[1G[?25h[?25lCounting objects:  91% (21/23)[0K[1G[?25hCounting objects: 100% (23/23), done.[0K[?25l
+Delta compression using up to 4 threads[0K
+Compressing objects:  11% (1/9)[0K[1G[?25h[?25lCompressing objects:  22% (2/9)[0K[1G[?25h[?25lCompressing objects:  33% (3/9)[0K[1G[?25h[?25lCompressing objects:  55% (5/9)[0K[1G[?25h[?25lCompressing objects:  66% (6/9)[0K[1G[?25h[?25lCompressing objects:  77% (7/9)[0K[1G[?25hCompressing objects: 100% (9/9), done.[0K[?25l
+[0K[?25h[?25lWriting objects:  33% (4/12)[0K[1G[?25h[?25lWriting objects:  50% (6/12)[0K[1G[?25h[?25lWriting objects:  66% (8/12)[0K[1G[?25h[?25lWriting objects:  91% (11/12)[0K[1G[?25hWriting objects: 100% (12/12), 12.24 KiB | 61.00 KiB/s, done.[0K[?25l
+Total 12 (delta 3), reused 0 (delta 0)[0K
+[0K[?25hremote: Resolving deltas: 100% (3/3), completed with 3 local objects.[0K[?25l
+[0K[?25hTo https://github.com/davelovellCARU/CAWordTemplate.git[0K[?25l
+   f05739e..dbb4810  master -> master[0K
+[0K[?25h[?25l
+[0;32mdavid.lovell@CASH-WS-2231 [0;35m [0;33m/o/WCC/Research/Team member folders/Dave Lovell/CA[0KW
+ordTemplate[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l[17A[0K
+[0;32mdavid.lovell@CASH-WS-2231 [0;35m [0;33m/o/WCC/Research/Team member folders/Dave Lovell/CAW[0Ko
+rdTemplate[0;36m (master)[0K
+[0m$ git push[0K
+Enumerating objects: 23, done.[0K
+Counting objects: 100% (23/23), done.[0K
+Delta compression using up to 4 threads[0K
+Compressing objects: 100% (9/9), done.[0K
+Writing objects: 100% (12/12), 12.24 KiB | 61.00 KiB/s, done.[0K
+Total 12 (delta 3), reused 0 (delta 0)[0K
+remote: Resolving deltas: 100% (3/3), completed with 3 local objects.[0K
+To https://github.com/davelovellCARU/CAWordTemplate.git[0K
+   f05739e..dbb4810  master -> master[0K
+[0K
+[0;32mdavid.lovell@CASH-WS-2231 [0;35m [0;33m/o/WCC/Research/Team member folders/Dave Lovell/CAW[0Ko
+rdTemplate[0;36m (master)[0K
+[0m$[0K
+[0K[1A[3G[?25h[?25l[15A[0;32mdavid.lovell@CASH-WS-2231 [0;35m [0;33m/o/WCC/Research/Team member folders/Dave Lovell/CA[0KW
+ordTemplate[0;36m (master)[0K
+[0m$ git push[0K
+Enumerating objects: 23, done.[0K
+Counting objects: 100% (23/23), done.[0K
+Delta compression using up to 4 threads[0K
+Compressing objects: 100% (9/9), done.[0K
+Writing objects: 100% (12/12), 12.24 KiB | 61.00 KiB/s, done.[0K
+Total 12 (delta 3), reused 0 (delta 0)[0K
+remote: Resolving deltas: 100% (3/3), completed with 3 local objects.[0K
+To https://github.com/davelovellCARU/CAWordTemplate.git[0K
+   f05739e..dbb4810  master -> master[0K
+[0K
+[0;32mdavid.lovell@CASH-WS-2231 [0;35m [0;33m/o/WCC/Research/Team member folders/Dave Lovell/CA[0KW
+ordTemplate[0;36m (master)[0K
+[0m$[0K
+[0K[1A[3G[?25h[?25l$ g[0K
+[0K[1A[4G[?25h[?25l$ git[0K
+[0K[1A[7G[?25h[?25l$ git a[0K
+[0K[1A[8G[?25h[?25l$ git add[0K
+[0K[1A[10G[?25h[11G[?25l$ git add .[0K
+[0K[1A[12G[?25h[?25l
+[?25h

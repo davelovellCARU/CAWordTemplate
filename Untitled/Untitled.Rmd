@@ -1,0 +1,17 @@
+---
+title: "Untitled"
+author: "Church Army's Research Unit"
+date: "Some-date"
+output:
+  word_document:
+    reference_docx: caRefDoc.docx
+---
+
+```{r, include = FALSE, echo = FALSE}
+#Five hashes is a fifth level heading, which is set to be a pagebreak in the reference document (apparently that's the way it's done)
+```
+##### 
+
+#KEY FINDINGS
+
+#CONCLUSION
