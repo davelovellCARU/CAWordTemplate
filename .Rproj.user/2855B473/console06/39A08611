@@ -381,4 +381,58 @@ ordTemplate[0;36m (master)[0K
 [0K[1A[8G[?25h[?25l$ git add[0K
 [0K[1A[10G[?25h[11G[?25l$ git add .[0K
 [0K[1A[12G[?25h[?25l
-[?25h
+[?25hwarning: LF will be replaced by CRLF in .Rproj.user/2855B473/sources/prop/IND[0KE[?25l
+X.[0K
+The file will have its original line endings in your working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/shared/notebooks/paths.[0K[?25l
+The file will have its original line endings in your working directory[0K
+[0K[?25h[?25l
+[0;32mdavid.lovell@CASH-WS-2231 [0;35m [0;33m/o/WCC/Research/Team member folders/Dave Lovell/CA[0KW
+ordTemplate[0;36m (master)[0m[0K
+$ git commit[0K[?25h[14G[?25l$ git commit -[0K[?25hm[0K[17G[?25l$ git commit -m "[0K[?25hc[0Kpai[0Kta[0Kl[0Kis[0King[0K[31G[30G[?25l$ git commit -m "cpaitalisin[0K[?25h[?25l$ git commit -m "cpaitalisi[0K[?25h[?25l$ git commit -m "cpa[0K[?25h[?25l$ git commit -m[0K[?25h[17G[?25l$ git commit -m "[0K[?25hc[0Ka[0Kp[0Ki[0Kt[0Ka[0Kl[0Kis[0King[0K[31G[?25l$ git commit -m "capitalising e[0K[?25hx[0Ka[0Km[0Kple[0K he[0Ka[0Kd[0Kings[0K[48G[?25l$ git commit -m "capitalising example headings ([0K[?25hi[0Kn[0K[52G[?25l$ git commit -m "capitalising example headings (in li[0K[?25hkn[0K[?25l$ git commit -m "capitalising example headings (in lik[0K[?25h[?25l$ git commit -m "capitalising example headings (in lin[0K[?25he[0K[57G[?25l$ git commit -m "capitalising example headings (in line wi[0K[?25ht[0Kh[0K[62G[?25l$ git commit -m "capitalising example headings (in line with h[0K[?25hous[0Ke[0K[68G[?25l$ git commit -m "capitalising example headings (in line with house sy[0K[?25htl[0K[?25l$ git commit -m "capitalising example headings (in line with house syt[0K[?25h[?25l$ git commit -m "capitalising example headings (in line with house sy[0K[?25h[?25l$ git commit -m "capitalising example headings (in line with house s[0K[?25ht[0Kyle[0K"[0K[?25l$ git commit -m "capitalising example headings (in line with house style[0K[?25h)[0K"[0K[?25l
+[0K[?25h[master c270048] capitalising example headings (in line with house style)[0K[?25l
+ 8 files changed, 84 insertions(+), 2 deletions(-)[0K
+ rewrite .Rproj.user/2855B473/console06/INDEX001 (72%)[0K
+ create mode 100644 Untitled/Untitled.Rmd[0K
+ create mode 100644 Untitled/Untitled.docx[0K
+ create mode 100644 Untitled/caRefDoc.docx[0K
+ create mode 100644 inst/rmarkdown/templates/Church_Army_Word/skeleton/skelet[0Ko
+n.docx[0K
+[0K[?25h[?25l
+[0;32mdavid.lovell@CASH-WS-2231 [0;35m [0;33m/o/WCC/Research/Team member folders/Dave Lovell/CA[0KW
+ordTemplate[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git push[0K[?25h[?25l
+[0K[?25h[?25lEnumerating objects: 34[0K[1G[?25hEnumerating objects: 39, done.[0K[?25l
+[0K[?25h[?25lCounting objects:   7% (3/39)[0K[1G[?25h[?25lCounting objects:  15% (6/39)[0K[1G[?25h[?25lCounting objects:  23% (9/39)[0K[1G[?25h[?25lCounting objects:  28% (11/39)[0K[1G[?25h[?25lCounting objects:  35% (14/39)[0K[1G[?25h[?25lCounting objects:  41% (16/39)[0K[1G[?25h[?25lCounting objects:  46% (18/39)[0K[1G[?25h[?25lCounting objects:  51% (20/39)[0K[1G[?25h[?25lCounting objects:  58% (23/39)[0K[1G[?25h[?25lCounting objects:  64% (25/39)[0K[1G[?25h[?25lCounting objects:  71% (28/39)[0K[1G[?25h[?25lCounting objects:  79% (31/39)[0K[1G[?25h[?25lCounting objects:  84% (33/39)[0K[1G[?25h[?25lCounting objects:  89% (35/39)[0K[1G[?25h[?25lCounting objects:  94% (37/39)[0K[1G[?25hCounting objects: 100% (39/39), done.[0K[?25l
+Delta compression using up to 4 threads[0K
+Compressing objects:  11% (2/17)[0K[1G[?25h[?25lCompressing objects:  17% (3/17)[0K[1G[?25h[?25lCompressing objects:  23% (4/17)[0K[1G[?25h[?25lCompressing objects:  35% (6/17)[0K[1G[?25h[?25lCompressing objects:  41% (7/17)[0K[1G[?25h[?25lCompressing objects:  47% (8/17)[0K[1G[?25h[?25lCompressing objects:  52% (9/17)[0K[1G[?25h[?25lCompressing objects:  58% (10/17)[0K[1G[?25h[?25lCompressing objects:  64% (11/17)[0K[1G[?25h[?25lCompressing objects:  70% (12/17)[0K[1G[?25h[?25lCompressing objects:  76% (13/17)[0K[1G[?25h[?25lCompressing objects:  88% (15/17)[0K[1G[?25h[?25lCompressing objects: 100% (17/17), done.[0K[1G[?25h[?25l
+[0K[?25h[?25lWriting objects:  18% (4/22)[0K[1G[?25h[?25lWriting objects:  31% (7/22)[0K[1G[?25h[?25lWriting objects:  45% (10/22)[0K[1G[?25h[?25lWriting objects:  63% (14/22)[0K[1G[?25h[?25lWriting objects:  68% (15/22)[0K[1G[?25h[?25lWriting objects:  77% (17/22)[0K[1G[?25h[?25lWriting objects:  86% (19/22)[0K[1G[?25h[?25lWriting objects:  90% (20/22)[0K[1G[?25hWriting objects: 100% (22/22), 14.41 KiB | 43.00 KiB/s, done.[0K[?25l
+Total 22 (delta 8), reused 0 (delta 0)[0K
+[0K[?25hremote: Resolving deltas: 100% (8/8), completed with 7 local objects.[0K[?25l
+[0K[?25hTo https://github.com/davelovellCARU/CAWordTemplate.git[0K[?25l
+   dbb4810..c270048  master -> master[0K
+[0K[?25h[?25l
+[0;32mdavid.lovell@CASH-WS-2231 [0;35m [0;33m/o/WCC/Research/Team member folders/Dave Lovell/CA[0KW
+ordTemplate[0;36m (master)[0m[0K
+$[0K[3G[?25h[0m[0K]0;:/o/WCC/Research/Team member folders/Dave Lovell/CAWordTemplate[?25l
+[0;32mdavid.lovell@CASH-WS-2231 [0;35m [0;33m/o/WCC/Research/Team member folders/Dave Lovell/CA[0KW
+ordTemplate[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l[3A                                                                              [0;32mdavid.lovell@CASH-WS-2231 [0;35m [0;33m/o/WCC/Research/Team mem[0Kb
+er folders/Dave Lovell/CAWordTemplate[0;36m (master)[0m                                                          $[0K
+[0K
+[?25l$ g[0K
+[0K
+[0K[2A[4G[?25h[?25l$ git[0K
+[0K
+[0K[2A[7G[?25h[?25l$ git pu[0K
+[0K
+[0K[2A[9G[?25h[?25l$ git pul[0K
+[0K
+[0K[2A[10G[?25h[?25l$ git pull[0K
+[0K
+[0K[2A[11G[?25h[?25l
+[?25hAlready up to date.[0K[?25l
+[0K[?25h[?25l
+[0;32mdavid.lovell@CASH-WS-2231 [0;35m [0;33m/o/WCC/Research/Team member folders/Dave Lovell/CAWordTemplate[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hit[0K[7G[?25l$ git a[0K[?25hdd[0K .[0K[?25l
+[0K[?25h
